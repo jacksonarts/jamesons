@@ -1,0 +1,8 @@
+.cats p a {
+  font-weight: bold;
+  font-style: italic;
+}
+.dogs p a {
+  font-style: italic;
+  font-weight: bold;
+}
